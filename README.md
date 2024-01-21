@@ -26,7 +26,7 @@ This repository explores portfolio optimization and factor investing strategies 
    - Recommendations for future improvements include incorporating international markets, refining optimization methods, and exploring advanced topics like individual investor uncertainty.
 
 ## Project Structure
-
+```
 |-- data/
 | |-- [Downloaded Trading Data]
 |
@@ -40,7 +40,7 @@ This repository explores portfolio optimization and factor investing strategies 
 | |-- [Python Scripts]
 |
 |-- README.md
-
+```
 Feel free to explore the contents of each folder for detailed information.
 
 ## How to Use
